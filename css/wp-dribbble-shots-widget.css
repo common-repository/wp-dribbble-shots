@@ -1,0 +1,12 @@
+div.wp-dribbble-shot { height:230px; position:relative; }
+div.wp-dribbble-shot h4 { margin:10px 0px 4px 0px; width:180px; }
+div.wp-dribbble-shot h4 a { color:#F3679A; font:bold 12px 'Arial'; }
+div.wp-dribbble-shot a.dribbble-image-link { position:relative; display:block; }
+div.wp-dribbble-shot p.wp-dribbble-date { color:#666; font:italic bold 12px 'Arial'; margin-bottom:10px; }
+div.wp-dribbble-shot .wp-dribbble-toolbar { margin:5px 0 0 2px; }
+div.wp-dribbble-shot ul.wp-dribbble-toolbar li { float: left; width: auto; margin: 0 12px 0 0; display: inline; font-size: 11px; line-height: 1; color: #aaa; }
+div.wp-dribbble-shot ul.wp-dribbble-toolbar li a { text-decoration: none; color: #aaa; }
+div.wp-dribbble-shot ul.wp-dribbble-toolbar li.views { margin-left: 0; border-left: none; padding-left: 19px; background: url(../images/views.png) no-repeat; }
+div.wp-dribbble-shot ul.wp-dribbble-toolbar li.comments { padding-left: 15px; background: url(../images/comments.png) no-repeat; }
+div.wp-dribbble-shot ul.wp-dribbble-toolbar li.likes { padding-left: 15px; background: url(../images/likes.png) no-repeat; }
+div.wp-dribbble-shot ul.wp-dribbble-toolbar li a:hover { color: #777; }
